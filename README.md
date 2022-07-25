@@ -13,3 +13,15 @@ Young male Impala Mikumi National Park, Tanzania.
 ![Kudu](https://www.rhinorest.com/wp-content/uploads/2020/09/animals-with-horns.jpg)
 
 The greater kudu definitely boasts one of the grandest pairs of horns. On average, they are an impressive 48 inches in length (122 cm) and average two and a half twists in the length of the horn. Kudus are tall, large antelopes and are always very exciting to spot.
+
+- Day 02:
+
+Number and name of feature: Day02
+
+Estimate of time needed to complete: 5 hours
+
+Start time: 6:00 pm
+
+Finish time: 11pm, There has been a power cut
+
+Actual time needed to complete: 3-4 but I dont finish it all
