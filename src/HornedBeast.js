@@ -5,11 +5,9 @@ class HornedBeast extends React.Component {
     render() {
         return (
             <>
-            {/* <h2>{this.props.title}</h2> */}
-            <div className="hornedBeast">
+            <h2>{this.props.title} </h2>
             <img src={this.props.imgURL} alt={this.props.title} />
             <p>{this.props.description} </p>
-            </div>
             
             </>
             
