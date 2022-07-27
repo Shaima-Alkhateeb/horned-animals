@@ -12,11 +12,12 @@ class HornedBeast extends React.Component {
 
   favouriteClick = () => {
     this.setState({favourite: this.state.favourite +1 });
+    this.props.displayModal(this.props.data);
   }
 
   render() {
     return ( 
-      <Card style={{ width: '18rem' }}>
+      <Card style={{ width: '18rem' }}  >
       <Card.Img variant="top" src={this.props.image_url} alt={this.props.title} onClick={this.favouriteClick} />
         <Card.Body>
           <Card.Title>{this.props.title} </Card.Title>
