@@ -3,6 +3,7 @@ import './App.css';
 import Footer from './Footer';
 import Header from './Header';
 import Main from './Main';
+import FormComponent from './Form'
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import Modal from "./Component/Modal";
 import data from './data.json';
@@ -39,6 +40,8 @@ class App extends React.Component {
     return (
       <div className="App">
         <Header />
+        <FormComponent />
+        <br />
         <Main  allBeast={this.state.allBeast} displayModal={this.displayModal}  />
         <SelectedBeast show={this.state.showModal} handleClose={this.handleClose} selectedBeast={this.state.selectedBeast} />
         <Footer />
